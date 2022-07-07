@@ -3,4 +3,4 @@ Change 2 in File 1
 Change in master branch to create conflict with changes in idea branch
 Change made for making commit wrt idea in TestFile/File1
 Important bug fixed and bug123 has been stashed
-
+Change 3
