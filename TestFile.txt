@@ -5,7 +5,8 @@ Change made for making commit wrt idea in TestFile/File1
 Important bug fixed and bug123 has been stashed
 Change 3
 Change 4 by me
-Change 4 by me
 Change 5 by teammate
 Chnage 6 by teammate
 Change 5 by me
+Change 6 by me
+
